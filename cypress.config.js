@@ -5,7 +5,8 @@ module.exports = defineConfig({
     baseUrl: "https://reqres.in",
     projectId: "916brz",
     env: {
-      "googleUrl": "https://store.google.com/us"
+      "googleUrl": "https://store.google.com/us",
+      "googleUrl3": "https://store.google.com/us"
     }
     },
   })
